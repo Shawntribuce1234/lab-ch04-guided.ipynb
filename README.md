@@ -1,5 +1,8 @@
-###Robust Statistics: Automated Anomaly Detection
+Robust Statistics: Automated Anomaly Detection
+
+
 Objective
+
 My goal was to explore how different statistical methods identify unusual observations in the California Housing dataset and how summary statistics react when the data is altered.
 Methodology
 - I analyzed 20,640 observations from the California Housing dataset.
